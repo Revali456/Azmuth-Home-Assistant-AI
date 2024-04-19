@@ -44,3 +44,16 @@ To use Azmuth, follow these steps:
 
 Here's an example of how to interact with Azmuth:
 
+User: "Hey Azmuth, turn on the TV."
+
+Azmuth: "Sure thing! Turning on the TV now."
+
+[The script sends a signal to the smart TV, activating it.]
+
+User: "Azmuth, turn off the TV."
+
+Azmuth: "Okay, I'll take care of that. Turning off the TV."
+
+[The script sends a signal to the smart TV, powering it down.]
+
+Azmuth's integration with the smart TV allows for seamless control using voice commands. Users can simply speak their instructions, and Azmuth translates them into actionable commands for the TV, providing a convenient hands-free experience.
